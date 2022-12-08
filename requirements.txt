@@ -1,3 +1,4 @@
+--prefer-binary
 -r vulndeps.txt
 click
 cryptography
