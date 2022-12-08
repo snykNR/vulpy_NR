@@ -1,3 +1,4 @@
+-r vulndeps.txt
 click
 cryptography
 Flask
