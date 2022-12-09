@@ -1,5 +1,5 @@
---prefer-binary
--r vulndeps.txt
+# --prefer-binary
+-r req-vulndeps.txt
 click
 cryptography
 Flask
